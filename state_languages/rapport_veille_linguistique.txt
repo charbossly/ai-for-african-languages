@@ -1,0 +1,51 @@
+
+================================================================================
+RAPPORT DE VEILLE CARTOGRAPHIQUE - LANGUES AFRICAINES ET COMMON VOICE
+Généré le : 2026-04-19 14:27:38
+================================================================================
+
+1. RÉSUMÉ EXÉCUTIF
+------------------
+- Pays africains analysés : 48
+- Langues africaines sur Common Voice : 20
+- Densité linguistique moyenne : 73.1 langues/pays
+- Couverture Common Voice moyenne : 0.8 langues/pays
+
+2. TOP 10 DES PAYS AVEC LE PLUS GRAND BESOIN DE COUVERTURE
+-----------------------------------------------------------
+                             country  languages  cv_languages_count  cv_gap_score
+0                   Papua New Guinea        841                 0.0    841.000000
+2                           Cameroon        274                 1.0    137.000000
+1                            Nigeria        531                 3.0    132.750000
+4                               Chad        130                 0.0    130.000000
+9           Central African Republic         72                 0.0     72.000000
+10                      Burkina Faso         71                 0.0     71.000000
+3   Democratic Republic of the Congo        212                 2.0     70.666667
+11                       South Sudan         69                 0.0     69.000000
+14                             Congo         62                 0.0     62.000000
+16                            Angola         46                 0.0     46.000000
+
+3. LANGUES AFRICAINES MIEUX COUVERTES
+--------------------------------------
+        language name
+8         Kabyle  kab
+21        Arabic   ar
+80     Afrikaans   af
+83       Amharic   am
+91   Kinyarwanda   rw
+99         Hausa   ha
+107      Swahili   sw
+113      Luganda   lg
+123      Bambara   bm
+134       Somali   so
+
+4. DONNÉES DÉTAILLÉES
+---------------------
+Fichiers générés :
+- veille_linguistique_complete.csv : Données fusionnées complètes
+- common_voice_african_languages.csv : Langues africaines sur CV
+- common_voice_all_languages.csv : Toutes les langues sur CV
+- afrique_common_voice_gap_map.html : Carte interactive (Gap Score)
+- afrique_cv_coverage_count.html : Carte interactive (Couverture)
+
+================================================================================

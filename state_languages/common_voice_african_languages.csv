@@ -1,0 +1,21 @@
+id,name,target_sentence_count,language,native_name,is_contributable,is_translated,text_direction,is_african,african_countries
+9,kab,5000,Kabyle,Taqbaylit,1,1,LTR,True,['Algeria']
+22,ar,5000,Arabic,العربية,1,1,RTL,True,"['Algeria', 'Egypt', 'Sudan', 'Libya', 'Tunisia', 'Morocco']"
+1841,af,2000,Afrikaans,Afrikaans,1,1,LTR,True,"['South Africa', 'Namibia']"
+2572,am,2000,Amharic,አማርኛ,1,1,LTR,True,['Ethiopia']
+9501,rw,5000,Kinyarwanda,Ikinyarwanda,1,1,LTR,True,"['Rwanda', 'Uganda', 'Democratic Republic of the Congo']"
+19361,ha,5000,Hausa,Hausa,1,1,LTR,True,"['Nigeria', 'Niger', 'Ghana', 'Cameroon']"
+26713,sw,5000,Swahili,Kiswahili,1,1,LTR,True,"['Tanzania', 'Kenya', 'Uganda', 'Rwanda', 'Burundi', 'Democratic Republic of the Congo']"
+35968,lg,5000,Luganda,Luganda,1,1,LTR,True,['Uganda']
+39847,bm,750,Bambara,Bamanankan na,0,0,LTR,True,['Mali']
+42029,so,750,Somali,so,0,0,LTR,True,"['Somalia', 'Ethiopia', 'Djibouti', 'Kenya']"
+45565,tw,750,Twi,Twi,1,1,LTR,True,['Ghana']
+45566,yo,2000,Yoruba,Yòrùbá,1,1,LTR,True,"['Nigeria', 'Benin', 'Togo']"
+46538,ki,750,Kikuyu,ki,0,0,LTR,True,['Kenya']
+49835,ig,5000,Igbo,Ásụ̀sụ́ Ìgbò,1,1,LTR,True,['Nigeria']
+75861,xh,750,Xhosa,IsiXhosa,1,1,LTR,True,['South Africa']
+75862,zu,750,Zulu,Zulu,1,1,LTR,True,['South Africa']
+77926,wo,2000,Wolof,Wolof,0,1,LTR,True,"['Senegal', 'Gambia', 'Mauritania']"
+81144,luo,750,Dholuo,luo,1,1,LTR,True,"['Kenya', 'Tanzania']"
+81145,kln,750,Kalenjin,kln,1,1,LTR,True,['Kenya']
+81331,sn,5000,Shona,sn,0,0,LTR,True,['Zimbabwe']

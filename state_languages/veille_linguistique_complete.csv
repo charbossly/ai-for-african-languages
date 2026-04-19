@@ -1,0 +1,49 @@
+country,languages,cv_languages_count,total_cv_hours,cv_languages_list,cv_gap_score,iso_alpha
+Papua New Guinea,841,0.0,0.0,[],841.0,PNG
+Nigeria,531,3.0,0.0,"['Hausa', 'Yoruba', 'Igbo']",132.75,NG
+Cameroon,274,1.0,0.0,['Hausa'],137.0,CM
+Democratic Republic of the Congo,212,2.0,0.0,"['Kinyarwanda', 'Swahili']",70.66666666666667,CD
+Chad,130,0.0,0.0,[],130.0,TD
+Tanzania,125,2.0,0.0,"['Swahili', 'Dholuo']",41.666666666666664,TZ
+Ethiopia,90,2.0,0.0,"['Amharic', 'Somali']",30.0,ET
+Ghana,81,2.0,0.0,"['Hausa', 'Twi']",27.0,GH
+Sudan,75,1.0,0.0,['Arabic'],37.5,SD
+Central African Republic,72,0.0,0.0,[],72.0,CF
+Burkina Faso,71,0.0,0.0,[],71.0,BF
+South Sudan,69,0.0,0.0,[],69.0,SSD
+Mali,68,1.0,0.0,['Bambara'],34.0,ML
+Kenya,67,5.0,0.0,"['Swahili', 'Somali', 'Kikuyu', 'Dholuo', 'Kalenjin']",11.166666666666666,KE
+Congo,62,0.0,0.0,[],62.0,CG
+Benin,55,1.0,0.0,['Yoruba'],27.5,BJ
+Angola,46,0.0,0.0,[],46.0,AO
+Zambia,46,0.0,0.0,[],46.0,ZM
+Togo,44,1.0,0.0,['Yoruba'],22.0,TG
+Gabon,43,0.0,0.0,[],43.0,GA
+Mozambique,43,0.0,0.0,[],43.0,MZ
+Uganda,43,3.0,0.0,"['Kinyarwanda', 'Swahili', 'Luganda']",10.75,UG
+Senegal,38,1.0,0.0,['Wolof'],19.0,SN
+Guinea,37,0.0,0.0,[],37.0,GN
+Botswana,31,0.0,0.0,[],31.0,BW
+Liberia,31,0.0,0.0,[],31.0,LR
+South Africa,30,3.0,0.0,"['Afrikaans', 'Xhosa', 'Zulu']",7.5,ZA
+Namibia,27,1.0,0.0,['Afrikaans'],13.5,NA
+Sierra Leone,24,0.0,0.0,[],24.0,SL
+Guinea-Bissau,23,0.0,0.0,[],23.0,GW
+Niger,23,1.0,0.0,['Hausa'],11.5,NE
+Zimbabwe,22,1.0,0.0,['Shona'],11.0,ZW
+Algeria,18,2.0,0.0,"['Kabyle', 'Arabic']",6.0,DZ
+Malawi,17,0.0,0.0,[],17.0,MW
+Eritrea,15,0.0,0.0,[],15.0,ER
+Equatorial Guinea,14,0.0,0.0,[],14.0,GQ
+Somalia,13,1.0,0.0,['Somali'],6.5,SO
+Gambia,11,1.0,0.0,['Wolof'],5.5,GM
+Mauritania,7,1.0,0.0,['Wolof'],3.5,MR
+Mauritius,7,0.0,0.0,[],7.0,MU
+Comoros,6,0.0,0.0,[],6.0,KM
+Djibouti,5,1.0,0.0,['Somali'],2.5,DJ
+Eswatini,5,0.0,0.0,[],5.0,SWZ
+Lesotho,5,0.0,0.0,[],5.0,LS
+Burundi,3,1.0,0.0,['Swahili'],1.5,BI
+Rwanda,3,2.0,0.0,"['Kinyarwanda', 'Swahili']",1.0,RW
+Seychelles,3,0.0,0.0,[],3.0,SC
+Cape Verde,2,0.0,0.0,[],2.0,CV
